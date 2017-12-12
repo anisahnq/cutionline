@@ -1,0 +1,3 @@
+[php]
+{ &quot;require-dev&quot;: { &quot;phpunit/phpunit&quot;: &quot;3.7.*&quot; } }
+[/php]
